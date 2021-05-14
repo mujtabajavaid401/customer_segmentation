@@ -1,4 +1,4 @@
-# churn_prediction
+# Customer Segemntation
 
 # Overview
 
